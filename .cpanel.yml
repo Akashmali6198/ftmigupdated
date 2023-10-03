@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/po2wvj97lv77/public_html/ftmig004.imptoolskit.com
+    - /bin/cp * $DEPLOYPATH
+  
